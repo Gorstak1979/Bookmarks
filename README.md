@@ -1,2 +1,3 @@
 # Bookmarks
-Bookmarks or Favorites
+# Bookmarks or Favorites
+# You can also get it at tinu.be/Bookmarks
